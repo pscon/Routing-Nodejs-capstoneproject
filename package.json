@@ -1,0 +1,20 @@
+{
+  "name": "first_capstone_project",
+  "version": "1.0.0",
+  "description": "side hustle first capstone project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "start:dev": "nodemon server.js"
+  },
+  "keywords": [
+    "static",
+    "server"
+  ],
+  "author": "Group 7",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
